@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Clean_Architecture.Api",
+    "\\Clean_Architecture.Api\\Controllers",
+    "\\Clean_Architecture.Api\\Controllers\\AccountController",
+    "\\Clean_Architecture.Api\\Controllers\\ProductController",
+    "\\Clean_Architecture.Repository"
+  ],
+  "SelectedNode": "\\Clean_Architecture.Api\\Controllers\\ProductController\\ProductController.cs",
+  "PreviewInSolutionExplorer": false
+}
